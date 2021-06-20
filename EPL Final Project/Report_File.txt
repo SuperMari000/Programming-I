@@ -1,0 +1,9 @@
+
+				REPORT ABOUT TEAM
+
+
+pos 	Team Name 			wins 	draw 	Loses 	Points 
+
+8       Liverpool                       16      12      10      60      
+
+				  End Of REPORT
